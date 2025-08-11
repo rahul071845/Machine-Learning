@@ -20,6 +20,7 @@ I will use this section to track my progress and list the topics I've covered.
 * **09/08/2025 - Linear Regression - Single Variable**
 * **09/08/2025 - Linear Regression - Multiple Variable**
 * **09/08/2025 - Gradient Descent**
+* **11/08/2025 - Saving & Loading trained model**
 
 ---
 
