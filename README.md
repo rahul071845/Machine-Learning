@@ -25,6 +25,7 @@ I will use this section to track my progress and list the topics I've covered.
 * **11/08/2025 - Logistic Regression - Binary Classification**
 * **12/08/2025 - Logistic Regression - Multiclass Classification**
 * **12/08/2025 - Decision Tree**
+* **15/08/2025 - SVM**
 
 ---
 
