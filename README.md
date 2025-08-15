@@ -24,9 +24,10 @@ I will use this section to track my progress and list the topics I've covered.
 * **11/08/2025 - One Hot Encoding**
 * **11/08/2025 - Logistic Regression - Binary Classification**
 * **12/08/2025 - Logistic Regression - Multiclass Classification**
-* **12/08/2025 - Decision Tree**
+* **12/08/2025 - Decision Tree Classifier**
 * **15/08/2025 - SVM**
 * **15/08/2025 - Random Forest Classifier**
+* **15/08/2025 - K-Fold Cross Validation**
 
 ---
 
