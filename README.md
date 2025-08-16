@@ -30,6 +30,7 @@ I will use this section to track my progress and list the topics I've covered.
 * **15/08/2025 - K-Fold Cross Validation**
 * **15/08/2025 - K-Means Clustering**
 * **16/08/2025 - Naive Bayes Classification**
+* **16/08/2025 - Hyparameter Tuning**
 
 ---
 
