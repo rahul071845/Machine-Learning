@@ -32,6 +32,7 @@ I will use this section to track my progress and list the topics I've covered.
 * **16/08/2025 - Naive Bayes Classification**
 * **16/08/2025 - Hyparameter Tuning**
 * **17/08/2025 - KNN Classifier**
+* **18/08/2025 - PCA**
 
 ---
 
